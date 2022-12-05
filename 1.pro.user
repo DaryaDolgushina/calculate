@@ -1,0 +1,318 @@
+<? версия xml = " 1.0 " кодировка = " UTF-8 " ?>
+<! DOCTYPE  QtCreatorProject >
+<!-- Автор QtCreator 4.5.0, 06.11.2022T14:49:20. -->
+< qtcreator >
+< данные >
+  < переменная >EnvironmentId</ переменная >
+  < тип значения  = " QByteArray " >{4abc361c-027a-4ac1-9358-baa68e24c03b}</ значение >
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.ActiveTarget</ переменная >
+  < тип значения  = " int " >0</ значение >
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.EditorSettings</ переменная >
+  < тип карты значений = " QVariantMap  " >
+   < тип значения  = " bool " ключ = " EditorConfiguration.AutoIndent " > true </ значение > 
+   < тип значения  = " bool " ключ = " EditorConfiguration.AutoSpacesForTabs " >false</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.CamelCaseNavigation " >true</ value >
+   < тип карты значений = " QVariantMap  " ключ = " EditorConfiguration.CodeStyle.0 " > 
+    < тип значения  = " QString " ключ = " язык " >Cpp</ значение > 
+    < тип карты значений = " QVariantMap  " ключ = " значение " > 
+     < тип значения  = " QByteArray " ключ = " CurrentPreferences " >CppGlobal</ значение > 
+    </ карта значений >
+   </ карта значений >
+   < тип карты значений = " QVariantMap  " ключ = " EditorConfiguration.CodeStyle.1 " > 
+    < тип значения  = " QString " ключ = " язык " >QmlJS</ значение > 
+    < тип карты значений = " QVariantMap  " ключ = " значение " > 
+     < тип значения  = " QByteArray " ключ = " CurrentPreferences " >QmlJSGlobal</ значение > 
+    </ карта значений >
+   </ карта значений >
+   < тип значения  = " int " ключ = " EditorConfiguration.CodeStyle.Count " >2</ значение > 
+   < тип значения  = " QByteArray " ключ = " EditorConfiguration.Codec " >UTF-8</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.ConstrainTooltips " >false</ value >
+   < тип значения  = " int " ключ = " EditorConfiguration.IndentSize " >4</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.KeyboardTooltips " >false</ value >
+   < тип значения  = " int " ключ = " EditorConfiguration.MarginColumn " >80</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.MouseHiding " >true</ value >
+   < value  type = " bool "  key = " EditorConfiguration.MouseNavigation " >true</ value >
+   < тип значения  = " int " ключ = " EditorConfiguration.PaddingMode " >1</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.ScrollWheelZooming " >true</ value >
+   < value  type = " bool "  key = " EditorConfiguration.ShowMargin " >false</ value >
+   < тип значения  = " int " ключ = " EditorConfiguration.SmartBackspaceBehavior " >0</ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.SmartSelectionChanging " >true</ value >
+   < value  type = " bool "  key = " EditorConfiguration.SpacesForTabs " >true</ value >
+   < тип значения  = " int " ключ = " EditorConfiguration.TabKeyBehavior " >0</ значение > 
+   < тип значения  = " int " ключ = " EditorConfiguration.TabSize " >8</ значение > 
+   < тип значения  = " bool " ключ = " EditorConfiguration.UseGlobal " > true </ значение > 
+   < тип значения  = " int " ключ = " EditorConfiguration.Utf8BomBehavior " >1</ значение > 
+   < тип значения  = " bool " ключ = " EditorConfiguration.addFinalNewLine " > true </ значение > 
+   < тип значения  = " bool " ключ = " EditorConfiguration.cleanIndentation " > true </ значение > 
+   < value  type = " bool "  key = " EditorConfiguration.cleanWhitespace " >true</ value >
+   < тип значения  = " bool " ключ = " EditorConfiguration.inEntireDocument " >false</ значение > 
+  </ карта значений >
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.PluginSettings</ переменная >
+  < тип карты значений = " QVariantMap  " />
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.Target.0</ переменная >
+  < тип карты значений = " QVariantMap  " >
+   < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " > Desktop Qt 5.10.0 MinGW 32bit</ value >
+   < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DisplayName " > Desktop Qt 5.10.0 MinGW 32bit</ value >
+   < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >qt.qt5.5100.win32_mingw53_kit</ значение > 
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.ActiveBuildConfiguration " >0</ значение > 
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.ActiveDeployConfiguration " >0</ значение > 
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.ActiveRunConfiguration " >0</ значение > 
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.BuildConfiguration.0 " > 
+    < value  type = " QString "  key = " ProjectExplorer.BuildConfiguration.BuildDirectory " >C:/Users/Alsu/Documents/build-untitled5-Desktop_Qt_5_10_0_MinGW_32bit-Debug</ value >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.0 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >qmake</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >QtProjectManager.QMakeBuildStep</ значение > 
+      < value  type = " bool "  key = " QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary " >true</ value >
+      < тип значения  = " QString " ключ = " QtProjectManager.QMakeBuildStep.QMakeArguments " ></ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.QMakeForced " >false</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.SeparateDebugInfo " >false</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.UseQtQuickCompiler " >false</ значение > 
+     </ карта значений >
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.1 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >false</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " ></ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >2</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Build</ значение > 
+    </ карта значений >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.1 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >true</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " >очистить</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >1</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Очистка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Clean</ значение > 
+    </ карта значений >
+    < тип значения  = " int " ключ = " ProjectExplorer.BuildConfiguration.BuildStepListCount " >2</ значение > 
+    < тип значения  = " bool " ключ = " ProjectExplorer.BuildConfiguration.ClearSystemEnvironment " >false</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " ProjectExplorer.BuildConfiguration.UserEnvironmentChanges " /> 
+    < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Отладка</ value >
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.Qt4BuildConfiguration</ значение > 
+    < тип значения  = " int " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration " >2</ значение > 
+    < тип значения  = " bool " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild " >true</ значение > 
+   </ карта значений >
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.BuildConfiguration.1 " > 
+    < value  type = " QString "  key = " ProjectExplorer.BuildConfiguration.BuildDirectory " >C:/Users/Alsu/Documents/build-untitled5-Desktop_Qt_5_10_0_MinGW_32bit-Release</ value >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.0 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >qmake</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >QtProjectManager.QMakeBuildStep</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary " >false</ значение > 
+      < тип значения  = " QString " ключ = " QtProjectManager.QMakeBuildStep.QMakeArguments " ></ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.QMakeForced " >false</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.SeparateDebugInfo " >false</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.UseQtQuickCompiler " >false</ значение > 
+     </ карта значений >
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.1 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >false</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " ></ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >2</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Build</ значение > 
+    </ карта значений >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.1 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >true</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " >очистить</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >1</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Очистка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Clean</ значение > 
+    </ карта значений >
+    < тип значения  = " int " ключ = " ProjectExplorer.BuildConfiguration.BuildStepListCount " >2</ значение > 
+    < тип значения  = " bool " ключ = " ProjectExplorer.BuildConfiguration.ClearSystemEnvironment " >false</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " ProjectExplorer.BuildConfiguration.UserEnvironmentChanges " /> 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Выпуск</ значение > 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.Qt4BuildConfiguration</ значение > 
+    < тип значения  = " int " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration " >0</ значение > 
+    < тип значения  = " bool " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild " >true</ значение > 
+   </ карта значений >
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.BuildConfiguration.2 " > 
+    < value  type = " QString "  key = " ProjectExplorer.BuildConfiguration.BuildDirectory " >C:/Users/Alsu/Documents/build-untitled5-Desktop_Qt_5_10_0_MinGW_32bit-Profile</ value >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.0 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >qmake</ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >QtProjectManager.QMakeBuildStep</ значение > 
+      < value  type = " bool "  key = " QtProjectManager.QMakeBuildStep.LinkQmlDebuggingLibrary " >true</ value >
+      < тип значения  = " QString " ключ = " QtProjectManager.QMakeBuildStep.QMakeArguments " ></ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.QMakeForced " >false</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.SeparateDebugInfo " >true</ значение > 
+      < тип значения  = " bool " ключ = " QtProjectManager.QMakeBuildStep.UseQtQuickCompiler " >false</ значение > 
+     </ карта значений >
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.1 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >false</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " ></ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >2</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Build</ значение > 
+    </ карта значений >
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.1 " > 
+     < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildStepList.Step.0 " > 
+      < тип значения  = " bool " ключ = " ProjectExplorer.BuildStep.Enabled " >true</ значение > 
+      < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Сборка</ value >
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+      < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.MakeStep</ значение > 
+      < тип списка значений = " QVariantList  " ключ = " Qt4ProjectManager.MakeStep.AutomaticallyAddedMakeArguments " /> 
+      < тип значения  = " bool " ключ = " Qt4ProjectManager.MakeStep.Clean " >true</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeArguments " >очистить</ значение > 
+      < тип значения  = " QString " ключ = " Qt4ProjectManager.MakeStep.MakeCommand " ></ значение > 
+     </ карта значений >
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >1</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Очистка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Clean</ значение > 
+    </ карта значений >
+    < тип значения  = " int " ключ = " ProjectExplorer.BuildConfiguration.BuildStepListCount " >2</ значение > 
+    < тип значения  = " bool " ключ = " ProjectExplorer.BuildConfiguration.ClearSystemEnvironment " >false</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " ProjectExplorer.BuildConfiguration.UserEnvironmentChanges " /> 
+    < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Профилирование</ value >
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.Qt4BuildConfiguration</ значение > 
+    < тип значения  = " int " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration " >0</ значение > 
+    < тип значения  = " bool " ключ = " Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild " >true</ значение > 
+   </ карта значений >
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.BuildConfigurationCount " >3</ значение > 
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.DeployConfiguration.0 " > 
+    < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.BuildConfiguration.BuildStepList.0 " > 
+     < тип значения  = " int " ключ = " ProjectExplorer.BuildStepList.StepsCount " >0</ значение > 
+     < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Установка</ value >
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+     < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.BuildSteps.Deploy</ значение > 
+    </ карта значений >
+    < тип значения  = " int " ключ = " ProjectExplorer.BuildConfiguration.BuildStepListCount " >1</ значение > 
+    < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >Локальная установка</ value >
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.Id " >ProjectExplorer.DefaultDeployConfiguration</ значение > 
+   </ карта значений >
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.DeployConfigurationCount " >1</ значение > 
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.PluginSettings " /> 
+   < тип карты значений = " QVariantMap  " ключ = " ProjectExplorer.Target.RunConfiguration.0 " > 
+    < value  type = " bool "  key = " Analyzer.QmlProfiler.AggregateTraces " >false</ value >
+    < value  type = " bool "  key = " Analyzer.QmlProfiler.FlushEnabled " >false</ value >
+    < тип значения  = " uint " ключ = " Analyzer.QmlProfiler.FlushInterval " >1000</ значение > 
+    < тип значения  = " QString " ключ = " Analyzer.QmlProfiler.LastTraceFile " ></ значение > 
+    < тип значения  = " bool " ключ = " Analyzer.QmlProfiler.Settings.UseGlobalSettings " >true</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " Analyzer.Valgrind.AddedSuppressionFiles " /> 
+    < value  type = " bool "  key = " Analyzer.Valgrind.Callgrind.CollectBusEvents " >false</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.Callgrind.CollectSystime " >false</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.Callgrind.EnableBranchSim " >false</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.Callgrind.EnableCacheSim " >false</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.Callgrind.EnableEventToolTips " >true</ value >
+    < value  type = " double "  key = " Analyzer.Valgrind.Callgrind.MinimumCostRatio " >0,01</ value >
+    < value  type = " double "  key = " Analyzer.Valgrind.Callgrind.VisualisationMinimumCostRatio " >10</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.FilterExternalIssues " >true</ value >
+    < тип значения  = " int " ключ = " Analyzer.Valgrind.LeakCheckOnFinish " >1</ значение > 
+    < тип значения  = " int " ключ = " Analyzer.Valgrind.NumCallers " >25</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " Analyzer.Valgrind.RemovedSuppressionFiles " /> 
+    < тип значения  = " int " ключ = " Analyzer.Valgrind.SelfModifyingCodeDetection " >1</ значение > 
+    < value  type = " bool "  key = " Analyzer.Valgrind.Settings.UseGlobalSettings " >true</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.ShowReachable " >false</ value >
+    < value  type = " bool "  key = " Analyzer.Valgrind.TrackOrigins " >true</ value >
+    < тип значения  = " QString " ключ = " Analyzer.Valgrind.ValgrindExecutable " >valgrind</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " Analyzer.Valgrind.VisibleErrorKinds " > 
+     < тип значения  = " int " >0</ значение >
+     < тип значения  = " int " >1</ значение >
+     < тип значения  = " int " >2</ значение >
+     < тип значения  = " int " >3</ значение >
+     < тип значения  = " int " >4</ значение >
+     < тип значения  = " int " >5</ значение >
+     < тип значения  = " int " >6</ значение >
+     < тип значения  = " int " >7</ значение >
+     < тип значения  = " int " >8</ значение >
+     < тип значения  = " int " >9</ значение >
+     < тип значения  = " int " >10</ значение >
+     < тип значения  = " int " >11</ значение >
+     < тип значения  = " int " >12</ значение >
+     < тип значения  = " int " >13</ значение >
+     < тип значения  = " int " >14</ значение >
+    </ список значений >
+    < тип значения  = " int " ключ = " PE.EnvironmentAspect.Base " >2</ значение > 
+    < тип списка значений = " QVariantList  " ключ = " PE.EnvironmentAspect.Changes " /> 
+    < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.DefaultDisplayName " >untitled5</ value >
+    < тип значения  = " QString " ключ = " ProjectExplorer.ProjectConfiguration.DisplayName " ></ значение > 
+    < value  type = " QString "  key = " ProjectExplorer.ProjectConfiguration.Id " >Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Alsu/Documents/untitled5/untitled5.pro</ value >
+    < value  type = " bool "  key = " QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath " >true</ value >
+    < тип значения  = " QString " ключ = " Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments " ></ значение > 
+    < тип значения  = " QString " ключ = " Qt4ProjectManager.Qt4RunConfiguration.ProFile " >untitled5.pro</ значение > 
+    < тип значения  = " bool " ключ = " Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix " >false</ значение > 
+    < тип значения  = " QString " ключ = " Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory " ></ значение > 
+    < value  type = " QString "  key = " Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default " >C:/Users/Alsu/Documents/build-untitled5-Desktop_Qt_5_10_0_MinGW_32bit-Debug</ value >
+    < тип значения  = " uint " ключ = " RunConfiguration.QmlDebugServerPort " >3768</ значение > 
+    < тип значения  = " bool " ключ = " RunConfiguration.UseCppDebugger " >false</ значение > 
+    < тип значения  = " bool " ключ = " RunConfiguration.UseCppDebuggerAuto " >true</ значение > 
+    < тип значения  = " bool " ключ = " RunConfiguration.UseMultiProcess " >false</ значение > 
+    < тип значения  = " bool " ключ = " RunConfiguration.UseQmlDebugger " >false</ значение > 
+    < тип значения  = " bool " ключ = " RunConfiguration.UseQmlDebuggerAuto " >true</ значение > 
+   </ карта значений >
+   < тип значения  = " int " ключ = " ProjectExplorer.Target.RunConfigurationCount " >1</ значение > 
+  </ карта значений >
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.TargetCount</ переменная >
+  < тип значения  = " int " >1</ значение >
+</ данные >
+< данные >
+  < переменная >ProjectExplorer.Project.Updater.FileVersion</ переменная >
+  < тип значения  = " int " >18</ значение >
+</ данные >
+< данные >
+  < переменная >Версия</ переменная >
+  < тип значения  = " int " >18</ значение >
+</ данные >
+</ qtcreator >
